@@ -327,14 +327,7 @@ Fraud Alerts / Dashboards
 
 The Gold layer can be exposed through Databricks SQL dashboards to monitor:
 
-- Real-time transaction volume
-- Transactions per minute
-- Fraud alerts over time
-- Limit-breach transactions
-- Watchlist matches
-- Top targeted merchants
-- Geographic transaction distribution
-- Fraud trends
+![Dashboard](Results/sample_dashboard.png)
 
 These metrics provide both operational visibility and business-level insight into emerging fraud patterns.
 
