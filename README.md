@@ -24,6 +24,8 @@ The goal is to demonstrate how a modern streaming architecture can transform raw
 
 ## 🏗️ Architecture
 
+![Architecture](Results/Fraud_Detection_Architecture.png)
+
 ---
 
 ## 🧱 Medallion Architecture
